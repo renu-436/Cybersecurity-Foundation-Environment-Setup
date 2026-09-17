@@ -1,7 +1,5 @@
 # Cybersecurity-Foundation-Environment-Setup
 Hands-on cybersecurity foundation lab covering Linux, networking, Nmap, Wireshark, Burp Suite, and a controlled vulnerable environment.
-# Cybersecurity Foundation & Lab Setup
-
 This repository contains my practical learning and hands-on work in cybersecurity fundamentals.
 
 ## Topics Covered
